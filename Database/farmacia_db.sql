@@ -1,8 +1,4 @@
--- =====================================================
--- Base de datos: Sistema de Gestión para Farmacia
--- Ejecutar completo en MySQL (Workbench o consola):
---   mysql -u root -p < database/farmacia_db.sql
--- =====================================================
+
 
 DROP DATABASE IF EXISTS farmacia_db;
 CREATE DATABASE farmacia_db CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
